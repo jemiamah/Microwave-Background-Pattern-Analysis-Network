@@ -7,3 +7,5 @@ Q
 !tests/cmb-data-management.test.ts,8/f/8fd31f043e4a78db00d0914a4e797396219289b1
 W
 'contracts/pattern-discovery-claims.clar,a/6/a637fd64baac187eabbd957167d5c9873e608e69
+V
+&tests/pattern-discovery-claims.test.ts,a/a/aab8d9d2c260c82f9dbe75fd01c45bc8e1a440c4
