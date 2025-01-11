@@ -5,3 +5,5 @@ R
 "contracts/cmb-data-management.clar,7/d/7d0495a1142d35ed2492ffebbcd194c1405a3b54
 Q
 !tests/cmb-data-management.test.ts,8/f/8fd31f043e4a78db00d0914a4e797396219289b1
+W
+'contracts/pattern-discovery-claims.clar,a/6/a637fd64baac187eabbd957167d5c9873e608e69
