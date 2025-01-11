@@ -11,3 +11,5 @@ V
 &tests/pattern-discovery-claims.test.ts,a/a/aab8d9d2c260c82f9dbe75fd01c45bc8e1a440c4
 W
 'contracts/analysis-task-management.clar,e/1/e1722461dae4d3b6ec883aa275bf809369430e33
+V
+&tests/analysis-task-management.test.ts,e/4/e42df3d19f3966d2e0b6c75dc7fc8e6f812de4cc
